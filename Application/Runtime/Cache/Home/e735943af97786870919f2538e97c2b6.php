@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>/lj/index.php/Home/Index
